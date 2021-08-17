@@ -67,6 +67,8 @@
 	 "Week": {
 		"prefix": "todo.week",
 		"body": [
+			"Week: $CURRENT_DATE-$CURRENT_MONTH-$CURRENT_YEAR\n",
+
 			"Monday:",
 			"\t☐ $2\n",
 
