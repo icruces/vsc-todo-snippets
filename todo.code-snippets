@@ -1,0 +1,65 @@
+{
+	/**
+	 * Exercise database
+	 */
+	"Squats": {
+		"prefix": "ex.legs",
+		"body": [
+			"💪 ${1|Squats|} @legs",
+			"☐ $2"
+		]
+	},
+	"Biceps": {
+		"prefix": "ex.biceps",
+		"body": [
+			"💪 ${1|Curl,Hammer Curls,Reverse Curls|} @biceps",
+			"☐ $2"
+		]
+	},
+	"Triceps": {
+		"prefix": "ex.triceps",
+		"body": [
+			"💪 ${1|Standing Triceps,Overhead Triceps|} @triceps",
+			"☐ $2"
+		]
+	},
+	"Upper Body": {
+		"prefix": "w.Upper Body",
+		"body": [
+			"💪 Curl @biceps",
+			"☐ 💪 Standing Triceps @triceps",
+			"☐ $2"
+		]
+	},
+	
+	/**
+	 * Day to day tasks
+	 */
+	 "Default": {
+		"prefix": "task.default",
+		"body": [
+			"🎯 ${1:task}",
+			"☐ $2"
+		]
+	},
+
+	"Shopping": {
+		"prefix": "task.shopping",
+		"body": [
+			"🛒 Buy ${1:thing} @shopping",
+			"☐ $2"
+		]
+	},
+
+	/**
+	 * Books / media
+	 */
+	"Score": {
+		"prefix": "book.score",
+		"body": [
+			"${1|⭐,⭐⭐,⭐⭐⭐,⭐⭐⭐⭐,⭐⭐⭐⭐⭐|}"
+		]
+	}
+
+	
+}
