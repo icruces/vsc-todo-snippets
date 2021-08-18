@@ -23,6 +23,20 @@
 			"☐ $2"
 		]
 	},
+	"Shoulders": {
+		"prefix": "ex.shoulders",
+		"body": [
+			"💪 ${1|Standing Front Shoulder Raise,Standing Shoulder Press|} @triceps",
+			"☐ $2"
+		]
+	},
+	"Chest": {
+		"prefix": "ex.chest",
+		"body": [
+			"💪 ${1|Standing Chest Fly,Chest Press|} @triceps",
+			"☐ $2"
+		]
+	},
 	"Upper Body": {
 		"prefix": "w.Upper Body",
 		"body": [
