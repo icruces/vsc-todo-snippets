@@ -26,14 +26,14 @@
 	"Shoulders": {
 		"prefix": "ex.shoulders",
 		"body": [
-			"💪 ${1|Standing Front Shoulder Raise,Standing Shoulder Press|} @triceps",
+			"💪 ${1|Standing Front Shoulder Raise,Standing Shoulder Press|} @shoulders",
 			"☐ $2"
 		]
 	},
 	"Chest": {
 		"prefix": "ex.chest",
 		"body": [
-			"💪 ${1|Standing Chest Fly,Chest Press|} @triceps",
+			"💪 ${1|Standing Chest Fly,Chest Press|} @chest",
 			"☐ $2"
 		]
 	},
