@@ -37,6 +37,13 @@
 			"☐ $2"
 		]
 	},
+	"Back": {
+		"prefix": "ex.back",
+		"body": [
+			"💪 ${1|Standing Back Extension,Bent Over Back Row, Squatted Back Row|} @back",
+			"☐ $2"
+		]
+	},
 	"Upper Body": {
 		"prefix": "w.Upper Body",
 		"body": [
@@ -58,9 +65,17 @@
 	},
 
 	"Shopping": {
-		"prefix": "buy.shopping",
+		"prefix": "do.shopping",
 		"body": [
 			"🛒 Buy ${1:thing} @shopping",
+			"☐ $2"
+		]
+	},
+
+	"Trip": {
+		"prefix": "do.trip",
+		"body": [
+			"🚍 Travel to ${1:city}",
 			"☐ $2"
 		]
 	},
