@@ -40,7 +40,7 @@
 	"Back": {
 		"prefix": "ex.back",
 		"body": [
-			"💪 ${1|Standing Back Extension,Bent Over Back Row, Squatted Back Row|} @back",
+			"💪 ${1|Standing Back Extension,Bent Over Back Row,Squatted Back Row|} @back",
 			"☐ $2"
 		]
 	},
