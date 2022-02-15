@@ -80,6 +80,14 @@
 		]
 	},
 
+	"Read": {
+		"prefix": "do.read",
+		"body": [
+			"📖 Read `${1:book}`",
+			"☐ $2"
+		]
+	},
+
 	/**
 	 * Books / media
 	 */
