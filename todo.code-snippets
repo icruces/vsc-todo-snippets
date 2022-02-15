@@ -40,10 +40,10 @@
 	"Back": {
 		"prefix": "ex.back",
 		"body": [
-			"💪 ${1|Standing Back Extension,Bent Over Back Row,Squatted Back Row|} @back",
+			"💪 ${1|Standing Back Extension,Bent Over Back Row,Squatted Back Row,Seated Neutral Grip Row|} @back",
 			"☐ $2"
 		]
-	},
+	},	
 	"Upper Body": {
 		"prefix": "w.Upper Body",
 		"body": [
